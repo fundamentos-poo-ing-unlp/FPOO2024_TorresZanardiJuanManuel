@@ -27,7 +27,7 @@ class Program
 {
     static void Main()
     {        
-        string folder = "..\\..\\..\\..\\..\\Registros\\";
+        string folder = "..\\..\\..\\..\\Registros\\";
         string folder0 = folder + "registros_prueba\\";
         string folder1 = folder + "registros_ayacucho\\";
         string folder2 = folder + "registros_laplata_av60\\";
